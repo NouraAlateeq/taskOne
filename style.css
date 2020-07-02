@@ -1,0 +1,30 @@
+.header{
+background-color: #eee;
+height:170px;
+direction:ltr;
+}
+
+.form{
+	border:10px 10px;
+	width:600px;
+	margin:90px auto;
+	background:#fff;
+	padding:10px;
+	border: solid #eeee 1px;
+	text-align:center;
+	font-family:times new roman;
+	font-size:22px;
+	font-color:black;
+}
+
+.footer{
+background-color:#eee;
+height:130px;
+}
+
+#last{
+font-family:times new roman;
+font-size:18px;
+font-color:blue;
+direction:ltr;
+}
